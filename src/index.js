@@ -9,7 +9,7 @@ const uri = "MongooseUrl";
 const TelegramBot = require('node-telegram-bot-api');
 
 // Replace YOUR_TOKEN_HERE with your bot's API token
-const token = '6038868555:AAGa23xVArUMVb4Ct65GnoGmNsSgcX9C-V8';
+const token = 'YOUR_TOKEN_HERE';
 
 
 // Create a new bot instance
